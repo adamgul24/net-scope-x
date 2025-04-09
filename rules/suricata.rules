@@ -1,0 +1,4 @@
+1. alert http ... ".exe" in HTTP URI → Suspicious download  
+2. alert tcp ... port 445 + shellcode → EternalBlue-style exploit  
+3. alert dns ... query for "malicious.com" → Malicious domain detection  
+
