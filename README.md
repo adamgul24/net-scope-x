@@ -1,4 +1,4 @@
-# 🛰️ FlowSentinel
+# 🛰️ NetScope 
 
 > **Advanced Network Traffic Analyzer + Threat Classifier**  
 > Powered by Python, Suricata, PyShark, and Flask
