@@ -3,7 +3,7 @@
 > **Advanced Network Traffic Analyzer + Threat Classifier**  
 > Powered by Python, Suricata, PyShark, and Flask
 
-**FlowSentinel** gives you deep insight into packet-level traffic.  
+**NetScope** gives you deep insight into packet-level traffic.  
 Parse `.pcap` files, tag malicious patterns with Suricata alerts, visualize activity, and export machine-learning-ready data — via both CLI and a sleek Flask dashboard.
 
 ---
@@ -49,7 +49,7 @@ Parse `.pcap` files, tag malicious patterns with Suricata alerts, visualize acti
 ## 📂 Folder Layout
 
 ```bash
-flow-sentinel/
+net-scope/
 ├── main.py                  # CLI analyzer
 ├── app.py                   # Flask web dashboard
 ├── parser/
